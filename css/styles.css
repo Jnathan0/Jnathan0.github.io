@@ -10120,7 +10120,7 @@ body, html {
 
 .parallax {
   /* The image used */
-  background-image: url("/static/headerportrait.jpg");
+  background-image: url("../static/headerportrait.jpg");
 
   /* Full height */
   height: 100%;
