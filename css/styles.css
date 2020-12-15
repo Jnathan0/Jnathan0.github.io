@@ -10120,7 +10120,7 @@ body, html {
 
 .parallax {
   /* The image used */
-  background-image: url("../static/headerportrait.jpg");
+  background-image: url("../static/portrait.png");
 
   /* Full height */
   height: 100%;
@@ -10129,5 +10129,5 @@ body, html {
   background-attachment: fixed;
   background-position: left;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
